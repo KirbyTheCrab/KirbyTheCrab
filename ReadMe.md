@@ -22,6 +22,21 @@ I approach quality with an attacker’s mindset and an engineer’s discipline.
 ![](https://nirzak-streak-stats.vercel.app/?user=KirbyTheCrab&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirbythecrab&label=Profile%20views&color=0e75b6&style=flat" alt="kirbythecrab" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirbythecrab" alt="kirbythecrab" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirbythecrab&show_icons=true&locale=en&layout=compact" alt="kirbythecrab" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirbythecrab&show_icons=true&locale=en" alt="kirbythecrab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirbythecrab&" alt="kirbythecrab" /></p>
+
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=KirbyTheCrab&icon=0&color=0)](https://visitcount.itsvg.in)
 

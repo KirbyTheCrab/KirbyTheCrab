@@ -77,7 +77,9 @@ An architecture-driven automation framework designed with security gates built i
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=KirbyTheCrab&theme=gotham&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KirbyTheCrab&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 

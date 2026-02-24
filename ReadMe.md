@@ -111,7 +111,3 @@ Working with **Playwright** to build scalable E2E frameworks while expanding int
 ![](https://github-readme-stats.vercel.app/api?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KirbyTheCrab&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-[![Profile Visitors](https://img.shields.io/badge/Profile%20Views-000-blue?style=flat-square)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=KirbyTheCrab&icon=0&color=0)](https://visitcount.itsvg.in)

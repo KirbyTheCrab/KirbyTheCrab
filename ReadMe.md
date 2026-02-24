@@ -71,10 +71,29 @@ I approach quality with an attacker's mindset and an engineer's discipline.
 
 ---
 
+# 🎖️ Specialty Badges
+![SDET](https://img.shields.io/badge/SDET-Expert-brightgreen?style=for-the-badge)
+![Security Testing](https://img.shields.io/badge/Security%20Testing-Specialist-red?style=for-the-badge)
+![E2E Testing](https://img.shields.io/badge/E2E%20Testing-Playwright-2EAD33?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation%20Enthusiast-4CAF50?style=for-the-badge)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KirbyTheCrab&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+# 🎯 Core Competencies
+![Profile Visitors](https://img.shields.io/badge/Profile%20Views-000-blue?style=flat-square)
+
+**Key Focus Areas:**
+- 🧪 **Test Automation** - E2E, API, & Security testing frameworks
+- 🔐 **Application Security** - OWASP vulnerabilities, threat modeling, secure SDLC
+- ⚙️ **CI/CD Quality Gates** - Automation-driven quality assurance
+- 📋 **GRC Practices** - Risk management & compliance fundamentals
 
 ---
 

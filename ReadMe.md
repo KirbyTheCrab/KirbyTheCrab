@@ -4,10 +4,10 @@ Junior SDET | QA Engineer | Security Tester | Automation Enthusiast<br><br>I spe
 focused on test automation and application security.<br>
 Working with Playwright to build scalable E2E frameworks while expanding into:<br>
 
-  -OWASP-based security testing<br>
-  -Secure SDLC practices<br>
-  -Risk & compliance fundamentals<br>
-  -CI/CD quality gates<br>
+  - OWASP-based security testing<br>
+  - Secure SDLC practices<br>
+  - Risk & compliance fundamentals<br>
+  - CI/CD quality gates<br>
 
 I approach quality with an attacker’s mindset and an engineer’s discipline.
 

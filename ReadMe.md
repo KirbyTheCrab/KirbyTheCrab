@@ -18,6 +18,14 @@ I specialize in Playwright automation, application security testing, and GRC pra
 
 ---
 
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KirbyTheCrab&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 ## 🎯 Current Focus
 
 Currently focused on test automation and application security.
@@ -103,11 +111,3 @@ Working with **Playwright** to build scalable E2E frameworks while expanding int
 ![Security Testing](https://img.shields.io/badge/Security%20Testing-red?style=for-the-badge)
 ![E2E Testing](https://img.shields.io/badge/E2E%20Testing-Playwright-2EAD33?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation%20Enthusiast-4CAF50?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KirbyTheCrab&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

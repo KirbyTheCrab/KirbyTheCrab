@@ -24,6 +24,9 @@ I specialize in Playwright automation, application security testing, and GRC pra
 ![](https://nirzak-streak-stats.vercel.app/?user=KirbyTheCrab&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kirbythecrab)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ## 🎯 Current Focus

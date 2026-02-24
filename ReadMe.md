@@ -1,19 +1,36 @@
 # 💫 About Me:
-Junior SDET | QA Engineer | Security Tester | Automation Enthusiast<br><br>I specialize in Playwright automation, application security testing, and GRC practices.<br>Passionate about secure SDLC, threat modeling, and turning manual processes into reliable automation.<br><br>I believe quality and security are engineering disciplines — not afterthoughts.
 
-Currently focused on test automation and application security.<br>
-Working with Playwright to build scalable E2E frameworks while expanding into:<br>
+Junior SDET | QA Engineer | Security Tester | Automation Enthusiast
 
-  - OWASP-based security testing<br>
-  - Secure SDLC practices<br>
-  - Risk & compliance fundamentals<br>
-  - CI/CD quality gates<br>
+I specialize in Playwright automation, application security testing, and GRC practices. Passionate about building secure, scalable test automation frameworks and identifying vulnerabilities before they reach production.
 
-I approach quality with an attacker's mindset and an engineer's discipline.
+**Philosophy:** Quality and security are engineering disciplines — not afterthoughts. I approach every project with an attacker's mindset and an engineer's discipline.
 
 ---
 
-# 💻 Tech Stack:
+## 📋 Table of Contents
+- [About Me](#-about-me)
+- [Current Focus](#-current-focus)
+- [Tech Stack](#-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [Core Competencies](#-core-competencies)
+- [GitHub Stats](#-github-stats)
+
+---
+
+## 🎯 Current Focus
+
+Currently focused on test automation and application security.
+
+Working with **Playwright** to build scalable E2E frameworks while expanding into:
+- 🧪 OWASP-based security testing
+- 🔐 Secure SDLC practices  
+- 📊 Risk & compliance fundamentals
+- ⚙️ CI/CD quality gates
+
+---
+
+## 💻 Tech Stack:
 
 ### 🎯 Test Automation & Frameworks
 ![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -63,6 +80,7 @@ I approach quality with an attacker's mindset and an engineer's discipline.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -71,7 +89,16 @@ I approach quality with an attacker's mindset and an engineer's discipline.
 
 ---
 
-# 🎖️ Specialty Badges
+## 🎯 Core Competencies
+
+**Key Focus Areas:**
+- 🧪 **Test Automation** - E2E, API, & Security testing frameworks with Playwright & Puppeteer
+- 🔐 **Application Security** - OWASP vulnerabilities, threat modeling, secure SDLC practices
+- ⚙️ **CI/CD Quality Gates** - Automation-driven quality assurance & DevOps integration
+- 📋 **GRC Practices** - Risk management, compliance fundamentals, and governance
+
+**Specialty Badges:**
+
 ![SDET](https://img.shields.io/badge/SDET-Proficient-2EAD33?style=for-the-badge)
 ![Security Testing](https://img.shields.io/badge/Security%20Testing-red?style=for-the-badge)
 ![E2E Testing](https://img.shields.io/badge/E2E%20Testing-Playwright-2EAD33?style=for-the-badge)
@@ -79,24 +106,19 @@ I approach quality with an attacker's mindset and an engineer's discipline.
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KirbyTheCrab&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyTheCrab&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-# 🎯 Core Competencies
-![Profile Visitors](https://img.shields.io/badge/Profile%20Views-000-blue?style=flat-square)
+## 🤝 Let's Connect
 
-**Key Focus Areas:**
-- 🧪 **Test Automation** - E2E, API, & Security testing frameworks
-- 🔐 **Application Security** - OWASP vulnerabilities, threat modeling, secure SDLC
-- ⚙️ **CI/CD Quality Gates** - Automation-driven quality assurance
-- 📋 **GRC Practices** - Risk management & compliance fundamentals
+📧 Feel free to reach out for collaboration on automation, security testing, or SDLC improvements!
 
----
-
+[![Profile Visitors](https://img.shields.io/badge/Profile%20Views-000-blue?style=flat-square)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=KirbyTheCrab&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

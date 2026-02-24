@@ -72,8 +72,8 @@ I approach quality with an attacker's mindset and an engineer's discipline.
 ---
 
 # 🎖️ Specialty Badges
-![SDET](https://img.shields.io/badge/SDET-Expert-brightgreen?style=for-the-badge)
-![Security Testing](https://img.shields.io/badge/Security%20Testing-Specialist-red?style=for-the-badge)
+![SDET](https://img.shields.io/badge/SDET-Proficient-2EAD33?style=for-the-badge)
+![Security Testing](https://img.shields.io/badge/Security%20Testing-red?style=for-the-badge)
 ![E2E Testing](https://img.shields.io/badge/E2E%20Testing-Playwright-2EAD33?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation%20Enthusiast-4CAF50?style=for-the-badge)
 
